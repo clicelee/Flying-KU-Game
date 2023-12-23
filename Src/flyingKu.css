@@ -6,3 +6,7 @@ body{
 #board{
     background-image: url("../Assets/Konkuk-background.png");
 }
+
+#bird{
+    mask-image: url(../Assets/Ku-1damge.PNG);
+}
